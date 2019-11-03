@@ -1,2 +1,2 @@
-# ARM-demos
-ARM templates I use for most of my demos during training deliveries
+# TMLabWebApp
+Demo Web App for use with Traffic Manager hands-on Lab
